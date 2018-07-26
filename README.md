@@ -1,5 +1,8 @@
 # Pharmacy-Sort
 
+# Table of Contents
+
+	1. .[Problem](README.md#problem)
 
 
 ## PROBLEM  
