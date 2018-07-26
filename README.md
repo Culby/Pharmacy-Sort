@@ -2,10 +2,10 @@
 
 # Table of Contents
 
-	- Problem 
+	+ Problem 
 	""" <! (tried using []() to add hyperlink [Problem](README.md#Problem) did not work.>
 	-  Data 
-	- PSUEDO Code
+	* PSUEDO Code
 
 
 # Problem  
