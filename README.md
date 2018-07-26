@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-	1. [Problem](README.md#Problem)
+	1. [Problem](README.md#PROBLEM)
 
 
 # PROBLEM  
