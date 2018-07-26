@@ -2,12 +2,13 @@
 
 # Table of Contents
 
-	1. Problem
+	1. [Problem](README.md#Problem)
 	2. Data 
 	3. PSUEDO Code
 
 
 # Problem  
+
 	The probelm and challenge presented is to take a raw data set orginally derived from CMS data that provides information 
 	on prescribing habits by physicans and to produce a new dataset with and do counts on the number of times a drug has been 
  	prescribed as well as the he total cost for each drug.
