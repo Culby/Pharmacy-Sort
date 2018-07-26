@@ -1,0 +1,12 @@
+
+ 
+Orginal Data Schema 
+id, prescriber_last, prescriber_first, drug_name, drug_cost
+
+New Data Schema
+drug_name, numb_prescriber, total_cost, 
+
+
+  
+ 
+
