@@ -1,15 +1,14 @@
 
  
-Orginal Data Schema 
-id, prescriber_last, prescriber_first, drug_name, drug_cost
+PROBLEM  
+ The probelm and challenge presented is to take a raw data set orginally derived from CMS data that provides information 
+ on prescribing habits by physicans and to produce a new dataset with and do counts on the number of times a drug has been prescribed 
+ as well as the he total cost for each drug.
 
-New Data Schema
-drug_name, numb_prescriber, total_cost, 
-
-
-  
- The probelm and challenge presented is to take a data set with and do counts on the number of time a drug has been prescribed. 
- Then count the total cost of that drug and create a new file.  
+ 
+DATA 
+ The oringal data from CMS was cleaned and normalized for drug names and providers should be assumed to be distint entities if they have 
+ a seperate listing.
  The orignal file is named intcont.txt 
  The output file will be renamed top_cost_drug.txt
  
