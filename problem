@@ -8,5 +8,16 @@ drug_name, numb_prescriber, total_cost,
 
 
   
+ The probelm and challenge presented is to take a data set with and do counts on the number of time a drug has been prescribed. 
+ Then count the total cost of that drug and create a new file.  
+ The orignal file is named intcont.txt 
+ The output file will be renamed top_cost_drug.txt
+ 
+ PSUEDO CODE 
+  READ IN FILE 
+  CREATE FOR LOOP
+  COUNT TOTAL TIMES EACH DRUG WAS PRESCRIBED
+  COUNT TOTAL DRUG COST FOR EACH DRUG
+  CREATE AND WRITE NEW UPDATED FILE
  
 
