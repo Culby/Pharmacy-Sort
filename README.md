@@ -3,7 +3,6 @@
 # Table of Contents
 
 	+ Problem 
-	""" <! (tried using []() to add hyperlink [Problem](README.md#Problem) did not work.>
 	-  Data 
 	* PSUEDO Code
 
