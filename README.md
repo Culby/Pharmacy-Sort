@@ -2,7 +2,9 @@
 
 # Table of Contents
 
-	1. [Problem](README.md#problem)
+	1. Problem
+	2. Data 
+	3. PSUEDO Code
 
 
 # Problem  
