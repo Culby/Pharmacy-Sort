@@ -5,6 +5,7 @@
 	+ Problem 
 	* Data 
 	* PSUEDO Code
+	* Run Code
 
 
 # Problem  
