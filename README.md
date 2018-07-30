@@ -26,3 +26,9 @@
 	  COUNT TOTAL DRUG COST FOR EACH DRUG
 	  CREATE AND WRITE NEW UPDATED FILE
 	  SORT LIST OF DRUGS BY DESCENDING ORDER
+	  
+	  
+# Run Code
+
+	Code is written in Jupyner notebook and using Python 3
+	  
