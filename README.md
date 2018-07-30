@@ -3,8 +3,7 @@
 # Table of Contents
 
 	+ Problem 
-	<!-- [Problem](README.md#Problem) doesnt work-->
-	-  Data 
+	* Data 
 	* PSUEDO Code
 
 
@@ -30,5 +29,5 @@
 	  
 # Run Code
 
-	Code is written in Jupyner notebook and using Python 3
+	Code is written in Jupyter notebook and using Python 3
 	  
